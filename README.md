@@ -1,14 +1,13 @@
 # SA-DRO-For-Fair-Supervised-Learning
 
-This project is an official implementation of the SA-DRO method in this paper, titled ["On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms"](https://arxiv.org/abs/2402.18129), was accepted by UAI2024. This code is based on ["A fair classifier using kernel density estimation"](https://proceedings.neurips.cc/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf) by Cho, J., Hwang, G., & Suh, C. [2020].
+This project is an official implementation of the SA-DRO method in this paper, titled ["On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms"](https://arxiv.org/abs/2402.18129), was accepted by UAI2024. This project includes the demo results for COMPAS and Adult datasets by varying the hyperparameters.
+
+This code is based on ["A fair classifier using kernel density estimation"](https://proceedings.neurips.cc/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf) by Cho, J., Hwang, G., & Suh, C. [2020].
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
@@ -21,10 +20,15 @@ git clone [https://github.com/lh218/SA-DRO-For-Fair-Supervised-Learning]
 # Navigate to the project directory
 cd SA-DRO-For-Fair-Supervised-Learning
 
+```
+
 ## Usage
 
-# Example of usage
-import your_module
+```bash
 
-result = your_module.your_function()
-print(result)
+# Example of usage
+python trainer_COMPAS.py
+
+python trainer_Adult.py
+
+```
