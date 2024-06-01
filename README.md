@@ -1,4 +1,4 @@
-# SA-DRO Fair Inductive Bias
+# SA-DRO For Fair Inductive Biases
 
 ## Table of Contents
 
