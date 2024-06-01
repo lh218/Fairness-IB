@@ -17,7 +17,7 @@ Instructions on how to install and set up the project.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/lh218/SA-DRO-For-Fair-Supervised-Learning]
+git clone https://github.com/lh218/SA-DRO-For-Fair-Supervised-Learning
 
 # Navigate to the project directory
 cd SA-DRO-For-Fair-Supervised-Learning
