@@ -1,4 +1,4 @@
-# SA-DRO-For-Fair-Supervised-Learning
+# SA-DRO Fair Inductive Bias
 
 ## Table of Contents
 
