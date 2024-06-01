@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This project is an official implementation of the SA-DRO method in this paper, [**"On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms"**](https://arxiv.org/abs/2402.18129), was accepted by UAI2024. 
+This project is an official implementation of the SA-DRO method in this paper, [**"On the Inductive Biases of Demographic Parity-based Fair Learning Algorithms"**](https://arxiv.org/abs/2402.18129), UAI2024. 
 
 This project includes the demo results for COMPAS and Adult datasets. The datasets are separated highly imbalanced to observe the inductive biases brought by fair classification algorithms, and users can tune the hyperparameters for fairness and distributional robustness to get different results for Accuracy, DDP, and Negative Rates.
 
