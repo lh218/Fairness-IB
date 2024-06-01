@@ -41,4 +41,4 @@ python trainer_Adult.py
 
 ## References
 
-1. - Cho, Jaewoong, Gyeongjo Hwang, and Changho Suh. "A fair classifier using kernel density estimation." Advances in neural information processing systems 33 (2020): 15088-15099. [KDE](https://proceedings.neurips.cc/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf)
+1. Cho, Jaewoong, Gyeongjo Hwang, and Changho Suh. "A fair classifier using kernel density estimation." Advances in neural information processing systems 33 (2020): 15088-15099. [https://proceedings.neurips.cc/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf](https://proceedings.neurips.cc/paper/2020/file/ac3870fcad1cfc367825cda0101eee62-Paper.pdf)
